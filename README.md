@@ -4,8 +4,8 @@ I'm Malaysia based software engineer who builds things for the web. I'm currentl
 
   
 #### 😃 Quick Facts about me
-- 🔭 I’m currently working on a habit tracking mobile app (side project) using React Native
-- 🌱 I’m currently learning on Kotlin , while sharpening my skills & knowledge in MERN stack
+<!-- - 🔭 I’m currently working on a habit tracking mobile app (side project) using React Native -->
+- 🌱 I’m currently sharpening my skills & knowledge in MERN stack
 - 🏃 Main interest : UI/UX , building full stack applications
 - 📄 You can find my resume in my portfolio
 - 📫 How to reach me: lowbak1998@hotmail.com
