@@ -24,5 +24,3 @@ I'm Malaysia based software engineer who builds things for the web. I'm currentl
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
  </p>
-
-![when i first learn coding](https://memegenerator.net/img/instances/47403728.jpg)
