@@ -1,6 +1,6 @@
 ### Hi there 👋 , my name is Low Zi Jian
 
-I'm Malaysia based software engineer who builds things for the web. I'm currently working as a front end web developer in an <a target = "blank"  href = "https://www.dasher.com.my/"> excelling E-Commerce Company </a>.
+I'm Malaysia based software engineer who builds things for the web. I'm currently working as a sofware engineer in an <a target = "_blank"  href = "https://www.moneylion.com"> excelling fintech Company</a>.
 
   
 #### 😃 Quick Facts about me
